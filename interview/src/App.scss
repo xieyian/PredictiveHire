@@ -1,4 +1,5 @@
 .home-button-layout{
+    margin:2rem 0 2rem;
     display:flex;
     flex-direction: row;
     justify-content: space-around;
@@ -41,7 +42,7 @@ $border-color-hover: $color-black;
 .btn {
     @include reset-button;
     text-align: center;
-    width: 40vw;
+    width: 20vw;
     overflow: hidden;
     display: block;
     text-decoration: none;

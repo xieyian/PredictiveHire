@@ -1,0 +1,26 @@
+
+    .Login {
+      padding: 60px ;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  
+
+.input-title{
+    margin-bottom: 1rem;
+    font-size: larger;
+}
+.signin-layout{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 3rem;
+}
+.signin-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
