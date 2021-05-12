@@ -139,6 +139,7 @@ function App() {
 					Keisuke Takeda
 				</a>
 			</div>
+			<br />
 		</div>
 	);
 }

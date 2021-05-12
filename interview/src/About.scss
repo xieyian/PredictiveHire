@@ -5,6 +5,7 @@ table {
     margin-bottom:2rem;
   }
   
+  
   td, th {
     border: 1px solid #dddddd;
     text-align: center;
@@ -14,10 +15,18 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+  tr:nth-child(odd) {
+    background-color: gray;
+  }
   .about-layout {
       display: flex;
       flex-direction: row;
       justify-content: space-around;
+  }
+  .about-title{
+    font-size:2rem;
+    font-weight: bolder;
+    color:rgb(172, 151, 151);
   }
   @media only screen and (max-width: 950px){
     .about-layout {
@@ -39,6 +48,7 @@ table {
     margin:0 auto;
     overflow: hidden;
     background: url("./IMG_1863.JPG") no-repeat ;
+    margin-bottom:2rem ;
     background-size:cover;
     width:20rem;
     height: 30rem;

@@ -1,9 +1,16 @@
+
+body {
+    background: url("./bg-home.png");
+
+}
+
 .home-button-layout{
     margin:2rem 0 2rem;
     display:flex;
     flex-direction: row;
     justify-content: space-around;
     text-decoration: none;
+    opacity: 0.7;
 
 $color-gray: #666;
 $color-black: #000;

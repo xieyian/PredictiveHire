@@ -37,8 +37,13 @@ a:hover{
 .home-ranking{
     text-align: center;
     margin: 0.5rem;
-}
-a {
-    text-decoration: none;
-    color:black;
+    color:antiquewhite;
+    a {
+        text-decoration: none;
+        color:antiquewhite;
+    }
+    a:hover {
+        color:rgb(243, 152, 152);
+        font-weight: bolder;
+    }
 }
