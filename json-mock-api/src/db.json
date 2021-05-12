@@ -1,0 +1,19 @@
+{
+    "employees": [
+      {
+        "id":1,
+        "name": "Yian Xie",
+        "password": "YianWasHired"
+      },
+      {
+        "id":2,
+        "name": "Admin",
+        "password": "YianWasHired"
+      },
+      {
+        "id":3,
+        "name": "Johnny",
+        "password": "YianWasHired"
+      }
+    ]
+  }
